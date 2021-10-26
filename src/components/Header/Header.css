@@ -1,0 +1,5 @@
+.header-background {
+  background-color: var(--header-color);
+  border-bottom: 1px #282c34 solid;
+  box-shadow: 1px 2px 3px rgb(0 0 0 / 45%);
+}

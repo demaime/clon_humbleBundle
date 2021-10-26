@@ -1,0 +1,28 @@
+.main-background {
+  background-color: var(--main-color);
+}
+
+.mosaic-gradient {
+  background: rgb(23, 22, 20);
+  background: linear-gradient(
+    180deg,
+    rgba(23, 22, 20, 1) 35%,
+    rgba(73, 79, 92, 1) 100%
+  );
+}
+
+.btn-gradient {
+  background-image: radial-gradient(
+    circle,
+    #ef9743,
+    #f08a40,
+    #f07d40,
+    #f06f41,
+    #ef6043
+  );
+}
+
+.icon:before {
+  content: "\f0f2";
+  margin-right: 5px;
+}
